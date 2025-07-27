@@ -48,10 +48,13 @@ I love listening to music while coding 🎵💻
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadharavichandran&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadharavichandran&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sadharavichandran&show_icons=true&theme=radical"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadharavichandran&layout=compact&theme=radical"/></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadharavichandran&theme=radical" />
+</p>
