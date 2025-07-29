@@ -1,9 +1,9 @@
 <!-- Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sadha+R.;AI+%26+DS+Student+from+MKCE;Full+Stack+Developer+%7C+Tech+Explorer+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C1FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sadha+R.;B.Tech+Student+%7C+AI+%26+DS+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Exploring+DSA+%26+Machine+Learning+%F0%9F%A7%A0;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+</h2>
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -46,15 +46,6 @@ I love listening to music while coding 🎵💻
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sadharavichandran&show_icons=true&theme=radical"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadharavichandran&layout=compact&theme=radical"/></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadharavichandran&theme=radical" />
-</p>
+ <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=sadharavichandran&show_icons=true&theme=radical"/></td> <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadharavichandran&layout=compact&theme=radical"/></td> </tr> </table> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadharavichandran&theme=radical" /> </p>
